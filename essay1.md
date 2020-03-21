@@ -53,6 +53,9 @@ Avramides, Anita, "Other Minds", The Stanford Encyclopedia of Philosophy (Summer
 Avramides, Anita (2001).Other Minds. Routledge.
 
 
+
+
+
 Notes
 
 [1]由于Kant认为Reid的哲学缺乏批判性从而反对他的学说，而Kant的重要性不言而喻。以及Sir William Hamilton对Reid思想有失偏颇的解释，他是后世了解Reid的主要途径。还有J.S.Mill对Reid's common sense principle的反驳，J.S.Mill在历史上的地位也不需多说。
