@@ -1,6 +1,6 @@
 ### The Conceptual Path of Other Minds
 
-关于Other Minds，有记载的讨论应追溯至古希腊的Sextus Empiricus，在哲学史上对此问题的主要讨论时期起自Descartes，并在20世纪受到Wittgenstein的影响转向conceptual视角。但无论对于是否确实存在他心问题，以及如何来解决这个问题，哲学家们始终没有达成一致意见。本文将重点展示当代英美分析哲学视角下关于Other Minds的历史讨论，由于现象学、宗教等话题我很难speak their work justice，因此不会涉及具体内容。
+<font face="黑体" color=green size=5>关于Other Minds，有记载的讨论应追溯至古希腊的Sextus Empiricus，在哲学史上对此问题的主要讨论时期起自Descartes，并在20世纪受到Wittgenstein的影响转向conceptual视角。但无论对于是否确实存在他心问题，以及如何来解决这个问题，哲学家们始终没有达成一致意见。本文将重点展示当代英美分析哲学视角下关于Other Minds的历史讨论，由于现象学、宗教等话题我很难speak their work justice，因此不会涉及具体内容。
 
 他心问题是否应该消解了？
 他心问题不能简单用物质解释处理，它更像一个关于外部世界和“他者”的谜团。
