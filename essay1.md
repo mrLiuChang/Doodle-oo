@@ -31,6 +31,7 @@ Part III 20th Century and Its Contemporary Work
  很多其他哲学家如Nagel，Searle，Galen Strawson，Burnyeat，Fodor，Bennett，McDowell等，他们都有各自的观点，
  现象学对他心问题也有很多讨论。
 
+
 ——————————————————
 参考资料
 Avramides, Anita, "Other Minds", The Stanford Encyclopedia of Philosophy (Summer 2019 Edition), Edward N. Zalta (ed.).
