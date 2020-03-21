@@ -37,19 +37,29 @@ Part III 20th Century and Its Contemporary Work
 由于类比观点引起的众多问题和争议，哲学家们逐渐开始认可最佳解释理论。从最佳解释中得到的论点被认为是对类比论点的一种超越，即存在他人心灵是对他人行为的最佳解释，我们无需讨论存在问题，因为这里根本就没有问题。需要关注的只有如何去认识他人心灵。
 
 但有些哲学家认为，最佳解释理论并不能解决问题，真正值得关注的是他人心灵的概念问题（Avramides 2001）。维特根斯坦在20世纪中叶的工作表明，他开始系统地考虑他人心灵的概念问题，使得问题从认识论视角转向概念领域。有些哲学家，如P.F.Strawson在维特根斯坦的影响下将其描述为“描述的形而上学”，持类似观点的还有Davidson。
- 很多其他哲学家如Nagel，Searle，Galen Strawson，Burnyeat，Fodor，Bennett，McDowell等，他们都有各自的观点，
- 现象学对他心问题也有很多讨论。
+
+很多其他哲学家如Nagel，Searle，Galen Strawson，Burnyeat，Fodor，Bennett，McDowell等，他们都有各自的观点，
+
+现象学对他心问题也有很多讨论。
+ 
 
 
 ——————————————————
+
 参考资料
+
 Avramides, Anita, "Other Minds", The Stanford Encyclopedia of Philosophy (Summer 2019 Edition), Edward N. Zalta (ed.).
+
 Avramides, Anita (2001).Other Minds. Routledge.
 
+
 Notes
+
 [1]由于Kant认为Reid的哲学缺乏批判性从而反对他的学说，而Kant的重要性不言而喻。以及Sir William Hamilton对Reid思想有失偏颇的解释，他是后世了解Reid的主要途径。还有J.S.Mill对Reid's common sense principle的反驳，J.S.Mill在历史上的地位也不需多说。
 
 
 删减备用
+
 印度佛教哲学家法称（Dharmakīrti）在7世纪，否认外部世界的真实性，认为我们对其他人的理解有限度，另一个人的思想是不可察觉的，他人心灵的存在只能从观察到的言语和行动中推断。
+
 印度佛教学者宝作寂（Ratnakirti）在11世纪对法称的看法作出了回应，他指出在对另一个人的心灵是否存在进行推断时，永远无法进行准确的验证。实际上，宝作寂认为他人心灵不能被视为存在，必须接受唯我论。但宝作寂谨慎地区分了作为概念存在和作为实际存在的区别——尽管他人心灵最终并不存在，但它们确实是一种习惯用法。正是这种习惯用法才可以解释我们对待他人如同对方存在心灵的行为。
