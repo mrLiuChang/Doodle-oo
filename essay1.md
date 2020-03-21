@@ -9,7 +9,7 @@
 这当然是同一个问题，只不过多数人的反应就是避免承认自己的愚蠢，这也没什么。其实这里我们就注意到了概念上的困惑，一直以来认识论学者关于他心问题的讨论忽略了一个重点，就是通常认为他心存在与否，一定有某个答案，要么存在，要么不存在。
 
 Part I Early and Medieval
-古希腊人并没有对这类问题加以多少关注，怀疑论的两大学派Academy和Pyrrhonian均对此问题没有提及。然而希腊时期怀疑论的最后一个代表Sextus Empiricus，在他关于古希腊各派怀疑论的记录Against the Professors中提及了Cyrenaics对他人知觉的观察，可被认为是关于Other Minds最早的有记载的讨论。
+ 古希腊人并没有对这类问题加以多少关注，怀疑论的两大学派Academy和Pyrrhonian均对此问题没有提及。然而希腊时期怀疑论的最后一个代表Sextus Empiricus，在他关于古希腊各派怀疑论的记录Against the Professors中提及了Cyrenaics对他人知觉的观察，可被认为是关于Other Minds最早的有记载的讨论。
 For all people call something white or sweet in common, but they do not have something common that is white or sweet.For each person is aware of his own private pathos, but whether this pathos occurs in him and his neighbour from a white object neither can he himself tell, since he is not submitting to the pathos of ... the other person.
 古代弱怀疑论面对笛卡尔时代强怀疑论留下的问题
 Can we find a 'postlapsarian counterpart' to the ancient sceptic's realism concerning the mind of others
